@@ -1,6 +1,9 @@
 # Shooting_Gallery
 A simple shooting game
 
+Requires Love2d
+  https://love2d.org/
+
 Click the left mouse button to begin the game.
 
 Click the left mouse button to shoot the target and score 1 point. 
